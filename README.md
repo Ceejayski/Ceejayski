@@ -1,7 +1,6 @@
 ### Hi there 👋
 
-<!--
-**Ceejayski/Ceejayski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 
 Here are some ideas to get you started:
 
@@ -12,4 +11,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: [Twitter](https://twitter.com/ceejayski1), [Linkedin](https://www.linkedin.com/in/okolichijioke/)
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: When the problem is complexity, the cure might just be simplicity
+
+<!--
+**Ceejayski/Ceejayski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
