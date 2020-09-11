@@ -12,6 +12,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: When the problem is complexity, the cure might just be simplicity
 
+
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Ceejayski)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **Ceejayski/Ceejayski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
