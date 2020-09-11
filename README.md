@@ -8,7 +8,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning Full Stack Web Development (Ruby on Rails, JavaScript and React)
 - 👯 I’m looking to collaborate on JavaScript, React and Ruby on Rails Project
 - 💬 Ask me about Web Development
-- 📫 How to reach me: [Twitter](https://twitter.com/ceejayski1), [Linkedin](https://www.linkedin.com/in/okolichijioke/)
+- 📫 How to reach me: [Twitter](https://twitter.com/ceejayski1), [Linkedin](https://www.linkedin.com/in/chijioke-okoli-b0397a168/)
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: When the problem is complexity, the cure might just be simplicity
 
