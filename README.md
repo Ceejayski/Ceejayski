@@ -4,7 +4,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently a full time student at Microverse Inc.
+- 🔭 Studied at Microverse Inc.
 - 🌱 I’m currently learning Full Stack Web Development (Ruby on Rails, JavaScript and React)
 - 👯 I’m looking to collaborate on JavaScript, React and Ruby on Rails Project
 - 💬 Ask me about Web Development
