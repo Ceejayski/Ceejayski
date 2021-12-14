@@ -6,7 +6,7 @@ Here are some ideas to get you started:
 
 - 🔭 Studied at Microverse Inc.
 - 🌱 I'm a Full-stack | Back-end Dveloper
-- 👯 I’m looking to collaborate on JavaScript, React and Ruby on Rails Project
+- 👯 I’m looking to collaborate on Javascript, React, PHP and Ruby on Rails projects
 - 💬 Ask me about Web Development
 - 📫 How to reach me: [Twitter](https://twitter.com/ceejayski1), [Linkedin](https://www.linkedin.com/in/okoli-ceejay/)
 - 😄 Pronouns: He/Him
