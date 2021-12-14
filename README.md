@@ -5,7 +5,7 @@
 Here are some ideas to get you started:
 
 - 🔭 Studied at Microverse Inc.
-- 🌱 I’m currently learning Full Stack Web Development (Ruby on Rails, JavaScript and React)
+- 🌱 I'm a Full-stack| Backend Dveloper
 - 👯 I’m looking to collaborate on JavaScript, React and Ruby on Rails Project
 - 💬 Ask me about Web Development
 - 📫 How to reach me: [Twitter](https://twitter.com/ceejayski1), [Linkedin](https://www.linkedin.com/in/okoli-ceejay/)
