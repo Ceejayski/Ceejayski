@@ -8,7 +8,7 @@ Here are some ideas to get you started:
 - 🌱 I'm a Full-stack | Back-end Dveloper
 - 👯 I’m looking to collaborate on Javascript, React, PHP, Laravel, Django and Ruby on Rails projects
 - 💬 Ask me about Web Development
-- 📫 How to reach me: [Twitter](https://twitter.com/ceejayski1), [Linkedin](https://www.linkedin.com/in/okoli-ceejay/)
+- 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/okoli-ceejay/)
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: When the problem is complexity, the cure might just be simplicity
 
